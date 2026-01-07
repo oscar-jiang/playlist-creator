@@ -12,4 +12,3 @@ songDataset.drop(songDataset.columns[0], axis = 1, inplace = True) #drops the fi
 print(songDataset.tail(3)) #prints the last 3 observations of the dataframe
 
 
-
